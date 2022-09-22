@@ -1,4 +1,5 @@
-package com.java.starpatterns;
+
+
 
 public class StarPattern
 {

@@ -2,12 +2,12 @@ package com.qa.staticblock;
 
 public class StaticBlockwithPrivateConstructor
 {
-	 static int age;
+	// static int age=49;
 
 	public static void main(String[] args) 
 	{
-		StaticBlockwithPrivateConstructor obj=new StaticBlockwithPrivateConstructor();
-		System.out.println(obj.age );
+	//StaticBlockwithPrivateConstructor obj=new StaticBlockwithPrivateConstructor();
+	//	System.out.println(obj.age );
 		System.out.println(height);
 		
 	
@@ -28,7 +28,7 @@ public class StaticBlockwithPrivateConstructor
 	{
 		StaticBlockwithPrivateConstructor obj1=new StaticBlockwithPrivateConstructor();
 		System.out.println(obj1.age);
-		System.out.println(age=66);
+	//	System.out.println(age=66);
 		
 	}
 	//************************************************\u000d static int  height=32;
@@ -43,7 +43,7 @@ public class StaticBlockwithPrivateConstructor
 	}
 	private StaticBlockwithPrivateConstructor()
 	{
-		System.out.println("picking from the constructor");
+		//System.out.println("picking from the constructor");
 		age=44;
 	}
 

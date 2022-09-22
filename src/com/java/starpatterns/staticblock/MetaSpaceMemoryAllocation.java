@@ -1,4 +1,4 @@
-package com.qa.staticblock;
+package staticblock;
 
  class Test
 {

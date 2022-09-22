@@ -1,4 +1,4 @@
-package com.qa.staticblock;
+package staticblock;
 
 public class InstanceInitialization {
 

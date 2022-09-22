@@ -1,4 +1,4 @@
-package com.qa.staticblock;
+package staticblock;
 
 public class SupportingClass 
 {
@@ -11,7 +11,7 @@ public class SupportingClass
 	public static  void  main(String[] args)
 	
 	{
-		StaticBlockwithPrivateConstructor.staticmethod();
+		com.qa.staticblock.StaticBlockwithPrivateConstructor.staticmethod();
 	}
 
 }

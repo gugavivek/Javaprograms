@@ -1,4 +1,4 @@
-package com.java.starpatterns;
+
 
 public class CountOfDuplicates {
 
